@@ -1,8 +1,11 @@
 # 💫 About Me:
-👋     Bonjour le monde<br>🙋🏻‍♂️     Étudiant en programmation web<br>💻🌎 J'aime vraiment apprendre tout ce qui a trait au monde de l'internet.
-
- app avec react js
- 🌐 [Demo App ](https://rosember10.github.io/pokedexReactAPI/)
+🚀 Full-Stack Web Developer
+|💡 Passionate about creating intuitive, responsive web experiences 
+| 🛠 Proficient in JavaScript (React), PHP (Laravel), and SQL 
+| 🔄 Open to collaborations and freelance opportunities 
+| 📚 Lifelong learner and enthusiast for clean, efficient code 
+| 🔍 Currently creating projects to continue learning 
+| 💬 Let's turn your ideas into digital experiences! 🔗 www.rosemberg.dev
 
 
 ## 🌐 Socials:
