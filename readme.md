@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 👋 Hello there! I'm Rosemberg Lopez
+
 🚀 Full-Stack Web Developer
 
 💡 Passionate about creating intuitive, responsive web experiences 
