@@ -1,11 +1,17 @@
 # 💫 About Me:
 🚀 Full-Stack Web Developer
-|💡 Passionate about creating intuitive, responsive web experiences 
-| 🛠 Proficient in JavaScript (React), PHP (Laravel), and SQL 
-| 🔄 Open to collaborations and freelance opportunities 
-| 📚 Lifelong learner and enthusiast for clean, efficient code 
-| 🔍 Currently creating projects to continue learning 
-| 💬 Let's turn your ideas into digital experiences! 🔗 www.rosemberg.dev
+
+💡 Passionate about creating intuitive, responsive web experiences 
+
+🛠 Proficient in JavaScript (React), PHP (Laravel), and SQL 
+
+🔄 Open to collaborations and freelance opportunities 
+
+📚 Lifelong learner and enthusiast for clean, efficient code 
+
+🔍 Currently creating projects to continue learning 
+
+💬 Let's turn your ideas into digital experiences! 🔗 www.rosemberg.dev
 
 
 ## 🌐 Socials:
