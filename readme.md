@@ -1,17 +1,16 @@
 # 👋 Hello there  ! 
 
- 🚀 I am a passionate Full Stack Web Developer with hands-on experience in the design, development and optimization of web applications that solve real-world problems that seek to solve user needs in order to create 
-digital experiences.
+🚀 I am a passionate Full Stack Web Developer with hands-on experience in web application design, development and optimization, looking to solve user needs to create digital experiences.
 
-🛠 Proficient in JavaScript (React), PHP (Laravel), and SQL 
+🛠 Proficient in JavaScript (React), PHP (Laravel) and SQL.
 
-🔄 Open to collaborations and freelance opportunities 
+🔄 Open to collaborations and freelance opportunities.
 
-📚 Lifelong learner and enthusiast for clean, efficient code 
+📚 Lifelong learner and clean and efficient code enthusiast.
 
-🔍 Currently creating projects to continue learning 
+🔍 Currently creating projects to keep learning.
 
-💬 Let's turn your ideas into digital experiences! 
+💬 Let's turn your ideas into digital experiences!
 
 🌐 www.rosemberg.dev
 
