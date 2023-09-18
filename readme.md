@@ -1,6 +1,6 @@
 # 👋 Hello there  ! 
 
-🚀 I am a passionate Full Stack Web Developer with hands-on experience in web application design, development and optimization, looking to solve user needs to create digital experiences.
+🚀 I am a passionate Web Developer with hands-on experience in web application design, development and optimization, looking to solve user needs to create digital experiences.
 
 🛠 Proficient in JavaScript (React), PHP (Laravel) and SQL.
 
