@@ -2,7 +2,7 @@
 
 🚀 I am a passionate Web Developer with hands-on experience in web application design, development and optimization, looking to solve user needs to create digital experiences.
 
-🛠 Proficient in JavaScript (React), PHP (Laravel) and SQL.
+🛠 Proficient in JavaScript (React, React-Native), PHP (Laravel) and SQL.
 
 🔄 Open to collaborations and freelance opportunities.
 
