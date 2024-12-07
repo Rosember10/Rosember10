@@ -1,16 +1,12 @@
 # 👋 Hello there  ! 
 
-🚀 I am a passionate Web Developer with hands-on experience in web application design, development and optimization, looking to solve user needs to create digital experiences.
+🚀 Web Developer 
 
-🛠 Proficient in JavaScript (React, React-Native), PHP (Laravel) and SQL.
+💻 I design and develop modern, high-performance web applications, combining technical expertise and UI/UX design (Figma).
 
-🔄 Open to collaborations and freelance opportunities.
+🎯 Focus on: Performance · UX/UI · Clean Code · Scalable Architecture
 
-📚 Lifelong learner and clean and efficient code enthusiast.
-
-🔍 Currently creating projects to keep learning.
-
-💬 Let's turn your ideas into digital experiences!
+🤝 Open to freelance projects and collaborations.
 
 🌐 www.rosemberg.dev
 
@@ -22,7 +18,7 @@
 
 #####  1. Web Markup and Styling:
 
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
+ ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
 
 #####  2. Programming  Languages:
@@ -31,15 +27,16 @@
 
 #####  3. Web Frameworks and Libraries:
  
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+ ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 
 
  ##### 4. Environments & Platforms
-![NodeJS]( 	https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NodeJS]( 	https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+
  
  ##### 5. Package Managers:
  
- ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+ ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 
 
  ##### 6. Databases: 
